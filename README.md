@@ -53,7 +53,7 @@ I'm a seasoned software engineer with deep expertise in backend development usin
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/seu-usuario/seu-usuario/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/seu-usuario/ardoalbuquerque/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ## ✉️ Let's Connect
